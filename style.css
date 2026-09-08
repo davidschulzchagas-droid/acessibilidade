@@ -25,7 +25,7 @@ body {
 /* 1. SEÇÃO INÍCIO (Banner) */
 .hero-banner {
   background-color: var(--primary-color);
-  color: white;
+  color: rgb(148, 191, 255);
   padding: 4rem 1.5rem;
   text-align: center;
   border-bottom: 8px solid #003d80;
