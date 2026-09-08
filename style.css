@@ -1,11 +1,11 @@
 :root {
   --primary-color: #0056b3;
-  --bg-color: #f8f9fa;
-  --text-color: #212529;
+  --bg-color: #aed7ff;
+  --text-color: #021529;
   --card-bg: #ffffff;
-  --warning-color: #ffc824;
+  --warning-color: #008ea7;
   --danger-color: #d41010;
-  --success-color: #00c42e;
+  --success-color: #00fcfc;
 }
 
 * {
@@ -45,14 +45,14 @@ body {
 .btn-help {
   display: inline-block;
   background-color: var(--danger-color);
-  color: white;
+  color: #acd3ff;
   text-decoration: none;
   padding: 20px 40px;
   border-radius: 50px;
   font-size: 1.6rem;
   font-weight: bold;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
-  border: 4px solid white;
+  border: 4px solid #acd3ff;
 }
 
 .btn-help:hover {
@@ -89,7 +89,7 @@ h2 {
 }
 
 .tip-box {
-  background: #e7f1ff;
+  background: #acd3ff;
   padding: 25px;
   border-radius: 15px;
   border-left: 10px solid var(--primary-color);
@@ -110,7 +110,7 @@ h2 {
 }
 
 .rights-highlight {
-  background-color: #f1f8ff;
+  background-color: #acd3ff;
   padding: 15px;
   border-radius: 10px;
   border-left: 5px solid var(--success-color);
@@ -136,7 +136,7 @@ h2 {
 
 .alert-text b {
   display: block;
-  color: #856404;
+  color: #96730d;
   font-size: 1.4rem;
   margin-bottom: 5px;
 }
@@ -146,7 +146,7 @@ h2 {
 }
 
 #ajuda-urgente {
-  background-color: #fff5f5;
+  background-color: #acd3ff;
   border: 3px dashed var(--danger-color);
 }
 
