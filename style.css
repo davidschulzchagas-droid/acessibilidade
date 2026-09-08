@@ -25,7 +25,7 @@ body {
 /* 1. SEÇÃO INÍCIO (Banner) */
 .hero-banner {
   background-color: var(--primary-color);
-  color: hsl(0, 0%, 0%);
+  color: hsl(209, 100%, 84%);
   padding: 4rem 1.5rem;
   text-align: center;
   border-bottom: 8px solid #ffffff;
@@ -45,7 +45,7 @@ body {
 .btn-help {
   display: inline-block;
   background-color: var(--danger-color);
-  color: #acd3ff;
+  color: #550101;
   text-decoration: none;
   padding: 20px 40px;
   border-radius: 50px;
