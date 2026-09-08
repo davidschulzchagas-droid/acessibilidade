@@ -2,7 +2,7 @@
   --primary-color: #0056b3;
   --bg-color: #ffffff;
   --text-color: #021529;
-  --card-bg: #b0d8fd;
+  --card-bg: #d6ebff;
   --warning-color: #008ea7;
   --danger-color: #d41010;
   --success-color: #00fcfc;
@@ -25,7 +25,7 @@ body {
 /* 1. SEÇÃO INÍCIO (Banner) */
 .hero-banner {
   background-color: var(--primary-color);
-  color: hsl(214, 100%, 76%);
+  color: hsl(0, 0%, 0%);
   padding: 4rem 1.5rem;
   text-align: center;
   border-bottom: 8px solid #002e5f;
