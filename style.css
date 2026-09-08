@@ -2,7 +2,7 @@
   --primary-color: #0056b3;
   --bg-color: #ffffff;
   --text-color: #021529;
-  --card-bg: #ffdddd;
+  --card-bg: #b0d8fd;
   --warning-color: #008ea7;
   --danger-color: #d41010;
   --success-color: #00fcfc;
@@ -110,7 +110,7 @@ h2 {
 }
 
 .rights-highlight {
-  background-color: #acd3ff;
+  background-color: #e1efff;
   padding: 15px;
   border-radius: 10px;
   border-left: 5px solid var(--success-color);
